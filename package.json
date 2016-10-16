@@ -1,0 +1,19 @@
+{
+  "name": "bingwallpaper",
+  "version": "1.0.0",
+  "description": "bing wall paper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bing",
+    "wall",
+    "paper"
+  ],
+  "author": "tiantian",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "wallpaper": "^2.3.0"
+  }
+}
